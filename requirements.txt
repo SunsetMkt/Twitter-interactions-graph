@@ -10,7 +10,7 @@ Flask==2.0.2
 Flask-Cors==3.0.10
 future==0.18.2
 hjson==3.0.2
-idna==3.3
+idna==3.7
 importlib-metadata==4.10.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
